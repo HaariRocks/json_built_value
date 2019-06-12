@@ -1,6 +1,6 @@
 # json_built_value
 
-A new Flutter project.
+A new Flutter project. that deserializes a set of JSON strings using built_value.
 
 ## Getting Started
 
